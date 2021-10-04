@@ -3,7 +3,7 @@
 
 [Back]
 
-> Guide to contributing to [foo/bar](https://github.com/foo/bar) repo.
+> Guide to contributing to [Gesugao-san/byond-install](https://github.com/Gesugao-san/byond-install.git) repo.
 
 ### Table of content
 - [CONTRIBUTING](#contributing)

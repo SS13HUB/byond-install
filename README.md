@@ -1,12 +1,12 @@
 
 <p align="center">
 	<h2 align="center">
-		<a href="https://github.com/Gesugao-san/infrastructure-template-repository">Infrastructure</a> template
+		<a href="https://github.com/Gesugao-san/byond-install">byond-install</a>
 	</h2>
 	<p align="center">
 		Origin:
-		<a href="https://github.com/BYOND/infrastructure-template-repository">
-			BYOND/infrastructure-template-repository
+		<a href="https://github.com/Gesugao-san/byond-install">
+			Gesugao-san/byond-install
 		</a>
 	</p>
 </p>
@@ -40,28 +40,38 @@
 
 ---
 
-> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis scelerisque aliquam nibh, sed accumsan ipsum malesuada a. Mauris a facilisis erat. ](https://lipsum.com/)
+> Installs [BYOND (Build Your Own Net Dream)] — [game platform] and [social network] <small>(that reminds [Steam])</small> — using [Bourne Shell] (or just **sh**) <small>(*[explanation]*)</small>.
 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Details](#details)
 - [For contributors](#for-contributors)
-
-## Details
-
-<details>
-	<summary><b>[ Click on me ]</b></summary>
-	Hello there!
-</details>
 
 ## For contributors
 
- 1. [Contributing](./.github/CONTRIBUTING.md)
- 1. [ToDo list](./.github/TODO.md)
- 1. [Download](./.github/DOWNLOAD.md)
+ 1. [Code Of Conduct]
+ 2. [Contributing]
+ 3. [Download]
+ 4. [Inspiration]
+ 5. [ToDo list]
 
 ---
+
+[BYOND]: https://secure.byond.com/
+[BYOND (Build Your Own Net Dream)]: https://secure.byond.com/
+[game platform]: https://en.wikipedia.org/wiki/Game_engine
+[social network]: https://en.wikipedia.org/wiki/Social_networking_service
+[Steam]: https://en.wikipedia.org/wiki/Steam_(service)
+[Bourne Shell]: https://en.wikipedia.org/wiki/Bourne_shell
+[explanation]: https://stackoverflow.com/q/5725296
+[WayBack Mashine]: https://web.archive.org/
+
+[Code Of Conduct]: ./.github/CODE_OF_CONDUCT.md
+[Contributing]: ./.github/CONTRIBUTING.md
+[Download]: ./.github/DOWNLOAD.md
+[Inspiration]: ./.github/INSPIRATION.md
+[ToDo list]: ./.github/TODO.md
+
 
 <p align="center">
   <img src="https://2ip.io/bar/ip3.gif"/>
