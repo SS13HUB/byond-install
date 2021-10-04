@@ -1,7 +1,7 @@
 
 # TODO
 
-[Back](../README.md)
+[Back]
 
 > ToDo list.
 
@@ -15,3 +15,7 @@
 
 - [ ] ~~Example entry (not marked as done)~~;
 - [x] ~~Example entry (marked as done)~~.
+
+---
+
+[Back]: ../README.md
