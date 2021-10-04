@@ -19,21 +19,21 @@
 
 - **[ruby-install] — Installs [Ruby], [JRuby], [Rubinius], [TruffleRuby] (native / GraalVM), or
 [mruby]**;
-
-- [Goon install_byond.sh] — Bash script for installing [BYOND], from [Goonstation] build;
-- [tg install_byond.sh] — Bash script for installing [BYOND], from [tgstation] build;
-- [Bay install-byond.sh] — Bash script for installing [BYOND], from [Baystation12] build;
-- [Polaris install_byond.sh] — Bash script for installing [BYOND], from [PolarisSS13] build;
-- [byond-release-finder] — Jenkins pipeline and sh script for installing [BYOND], from [Stephen001, independent dev];
+*
+- [Goon install_byond.sh] — [sh] script for installing [BYOND], from [Goonstation] build;
+- [tg install_byond.sh] — [sh] script for installing [BYOND], from [tgstation] build;
+- [Bay install-byond.sh] — [sh] script for installing [BYOND], from [Baystation12] build;
+- [Polaris install_byond.sh] — [sh] script for installing [BYOND], from [PolarisSS13] build;
+- [byond-release-finder] — [Jenkins] pipeline and sh script for installing [BYOND], from [Stephen001, independent dev];
 - [ansible-role-byond] — [Ansible role] for installing [BYOND], from [TravisWhitehead, independent dev].
 
 ### Guides
 
-- [🇺🇸] byond.com — [Installing DreamDaemon in Linux Ubuntu/Debian 64 bits];
-- [🇺🇸] byond.com — [Installing Dream Daemon in Linux];
-- [🇷🇺] forum.ss13.ru — [We raise the station with our own hands using the example of Ubuntu 18.04].
+- [🇺🇸] https://byond.com — [Installing DreamDaemon in Linux Ubuntu/Debian 64 bits];
+- [🇺🇸] https://byond.com — [Installing Dream Daemon in Linux];
+- [🇷🇺] https://ss13.ru — [We raise the station with our own hands using the example of Ubuntu 18.04].
 
-**P.S.** *If something is deleted, use **[WayBack Mashine]**. I have backed up it for you*.
+**P.S.** *If something is deleted, use **[WayBack Mashine]**. Author have backed up it all for you*.
 
 ---
 
@@ -45,6 +45,7 @@
 [Rubinius]: http://rubini.us/
 [TruffleRuby]: https://github.com/oracle/truffleruby
 [mruby]: https://github.com/mruby/mruby#readme
+[sh]: https://en.wikipedia.org/wiki/Bourne_shell
 
 [Goon install_byond.sh]: https://github.com/goonstation/goonstation/blob/master/tools/ci/install_byond.sh
 [Goonstation]: https://github.com/goonstation/goonstation.git
@@ -60,6 +61,7 @@
 [PolarisSS13]: https://gitlab.com/Lorwp/PolarisSS13.git
 
 [byond-release-finder]: https://github.com/BYOND/byond-release-finder
+[Jenkins]: https://www.jenkins.io/
 [Stephen001, independent dev]: https://github.com/Stephen001
 
 [ansible-role-byond]: https://github.com/TravisWhitehead/ansible-role-byond
