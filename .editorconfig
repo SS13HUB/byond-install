@@ -3,6 +3,13 @@
 # top-most EditorConfig file
 root = true
 
+[*.bash, *.sh]
+end_of_line = lf
+
+[*.yml, *.yaml]
+indent_size = 2
+indent_style = space
+
 [*]
 charset = utf-8
 end_of_line = crlf
@@ -12,10 +19,3 @@ indent_style = tab
 insert_final_newline = true
 max_line_length = 80
 trim_trailing_whitespace = true
-
-[*.yml, *.yaml]
-indent_size = 2
-indent_style = space
-
-[*.sh]
-end_of_line = lf

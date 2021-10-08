@@ -3,7 +3,7 @@
 	"editor.insertSpaces": false,
 	"editor.tabSize": 4,
 	"files.encoding": "utf8",
-	"files.eol": "\r\n",
+	"files.eol": "\n",
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": false,
 	"files.trimTrailingWhitespace": true,
